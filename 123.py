@@ -17,7 +17,7 @@ print('#' * 35)
 
 
 def cadastrar_software(nome, descricao, data_cadastro):
-    ''''Cadastrar os softwares'''
+    ''''Cadastrar um software'''
     conexao = sqlite3.connect(BD)
     cursor = conexao.cursor()
     sql = "INSERT INTO software (nome,descricao,data_cadastro) VALUES ('%s', '%s','%s')" % (
