@@ -34,7 +34,7 @@ def cadastrar_software(nome, descricao, data_cadastro):
 
 
 def buscar_software_id(id_software):
-    ''''Buscar os softwares por id'''
+    ''''Busca um software por id'''
     conexao = sqlite3.connect(BD)
     cursor = conexao.cursor()
     sql = "SELECT * FROM software WHERE id_software='%d'" % id_software
