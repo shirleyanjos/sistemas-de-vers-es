@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e62a2b56-be89-4753-8586-e6a20eb71ebc" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/menus_if.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/123.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SJKI" afterPath="$PROJECT_DIR$/SJKI" />
-      <change beforePath="$PROJECT_DIR$/versoes.py" afterPath="$PROJECT_DIR$/funcoes.py" />
-    </list>
+    <list default="true" id="e62a2b56-be89-4753-8586-e6a20eb71ebc" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +11,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="funcoes.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="funcoes.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/funcoes.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
@@ -27,7 +21,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="menus_if.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="menus_if.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/menus_if.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="719">
@@ -408,18 +402,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/menus_if.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="719">
-          <caret line="62" column="19" lean-forward="false" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/funcoes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="135" column="29" lean-forward="false" selection-start-line="135" selection-start-column="29" selection-end-line="135" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menus_if.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="719">
+          <caret line="62" column="19" lean-forward="false" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
           <folding />
         </state>
       </provider>
